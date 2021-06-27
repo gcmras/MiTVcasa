@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",MasTV
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tele RED
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO TV
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LOCOMOTION TV
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0 tvg-id="CGTN.cn" group-title="Channels",TV PERU NOTICIAS
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="CGTN.cn" group-title="Channels",CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="Channels",RT
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UCI TV
+http://cdn.iptvperu.tv/uci2/index.m3u8
+#EXTINF:0 tvg-id="TVPeru.pe" group-title="Channels",RETROPLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0 tvg-id="TVPeru.pe" group-title="Channels",MEGA TV
+https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",IPE TV
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNITEL HYO
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MODA TV HYO
+https://tvdatta.com:3383/live/huancayotvlive.m3u8
+#EXTINF:0 tvg-id="BHTV1" group-title="Channels",BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIA TV
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Central TV Perú
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARIBEÑA TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXITOSA TV
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:0 tvg-id="PAXTV.hu" group-title="Channels",PAX TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
